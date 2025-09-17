@@ -25,8 +25,8 @@ A Flask-based web service that combines YOLOv9 object detection with Vision Tran
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/Saoudyahya/FLASK-image-guidance-generator-yolo-VisionEncoderDecoderModel.git
+   cd FLASK-image-guidance-generator-yolo-VisionEncoderDecoderModel
    ```
 
 2. **Build the Docker image**
